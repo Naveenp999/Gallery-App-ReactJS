@@ -1,0 +1,13 @@
+.button {
+  outline: none;
+  background-color: transparent;
+  border: none;
+}
+.item-container {
+  margin-top: 10px;
+  padding: 0px;
+  background-color: white;
+}
+.active {
+  opacity: 0.5;
+}
